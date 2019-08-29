@@ -13,6 +13,8 @@ Final value of mu 3.799446118015259
 Required projected vector:  [6.17110827e-01 4.44089210e-16 3.82889173e-01]
 ```
 
+------
+
 ### For Question 3
 Run q3_JSD.py
 #### Dependencies
